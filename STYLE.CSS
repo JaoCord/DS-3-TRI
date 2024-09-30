@@ -1,0 +1,35 @@
+body{
+    background-image: url(Fundo.jfif);
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.tela-login{
+    background-color: rgb(200, 255, 127);
+    padding: 50px;
+    border-radius: 10%;
+    display: block;
+    margin-top: 140px;
+
+}
+.tela-cadastro{
+    background-color: rgb(200, 255, 127);
+    padding: 50px;
+    border-radius: 10%;
+    display: block;
+    margin-top: 80px;
+}
+.tela-inicio{
+    background-color: rgb(200, 255, 127);
+    padding: 50px;
+    border-radius: 10%;
+    display: block;
+    margin-top: 140px;
+
+}
+.tela-inicio button{
+    font-size:x-large;
+}
