@@ -33,3 +33,9 @@ body{
 .tela-inicio button{
     font-size:x-large;
 }
+.tela-login button{
+    font-size:large;
+}
+.tela-cadastro button{
+    font-size:large;
+}
