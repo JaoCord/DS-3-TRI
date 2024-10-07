@@ -39,3 +39,26 @@ body{
 .tela-cadastro button{
     font-size:large;
 }
+body.Info{
+    background-image: url(Fundo.jfif);
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.Informacoes{
+    background-color: rgba(20, 223, 81, 0.397);
+    padding: 50px;
+    border-radius: 5%;
+    margin-top: -5px;
+    display: flex;
+    font-family:'Courier New', Courier, monospace;
+	color: #333;
+    font-size: 0.7em;
+    width: 100%;
+}
+.conta-info{
+    flex-direction: column;
+    
+}
