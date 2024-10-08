@@ -57,6 +57,7 @@ body.Info{
 	color: #333;
     font-size: 0.7em;
     width: 100%;
+    justify-content: space-between;
 }
 .conta-info{
     flex-direction: column;
