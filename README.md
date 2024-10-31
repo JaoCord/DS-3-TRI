@@ -15,3 +15,12 @@ Projeto Inicial: Site que com mostre todas as bibliotecas de todas as plataforma
  4. Clique em clonar do Github, faça a autenticação
  5. Volte para o Visual Code e selecione seu projeto para clonar
  6. Escolha um lugar para salvar o projeto e clique em "Abrir"
+
+# Como instalar a biblioteca flask do Python
+Abrir novo terminal: Barra de Ferramentas > Três pontinhos > Terminal > Novo Terminal;
+Digite o comando pip install flask --user.
+
+# Como instalar a extensão do Python no VS Code
+Essa extensão serve para aparecer a opção "Executar no terminal"
+Abra as extensões (Ctrl + Shift + X), pesquise por "Python"
+Clique em instalar
